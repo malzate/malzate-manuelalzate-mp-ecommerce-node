@@ -1,1 +1,1 @@
-# malzate-manuelalzate-mp-ecommerce-node
+npm start
