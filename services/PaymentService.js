@@ -30,7 +30,7 @@ class PaymentService {
 
     const preferences = {
       items,
-      external_reference: "manuelfernandolazatequintero1@gmail.com",
+      external_reference: "manuel.a@gogobetwin.com",
       payer: {
         name: "Lalo",
         surname: "Landa",
