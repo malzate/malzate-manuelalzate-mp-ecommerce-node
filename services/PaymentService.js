@@ -60,7 +60,7 @@ class PaymentService {
         pending: "https://manuelalzate-mp-ecommerce-node.herokuapp.com/pending",
         failure: "https://manuelalzate-mp-ecommerce-node.herokuapp.com/error"
       },
-      notification_url: "https://manuelalzate-mp-ecommerce-node.herokuapp.com/webhook",
+      notification_url: "https://kolkrabbi.heroku.com/hooks/github",
       auto_return: "approved"
     };
 
