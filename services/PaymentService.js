@@ -21,7 +21,7 @@ class PaymentService {
         title: name,
         description: "Dispositivo movil de Tienda e-commerce",
         picture_url: "https://courseit.com.ar/static/logo.png",
-        category_id: "1234",
+        //category_id: "1234",
         quantity: parseInt(unit),
         currency_id: "PEN",
         unit_price: parseFloat(price)
@@ -35,6 +35,7 @@ class PaymentService {
         name: "Lalo",
         surname: "Landa",
         email: "test_user_46542185@testuser.com",
+        identification: { number: '22334445', type: 'dni' },
         phone: {
           area_code: "52",
           number: "5549737300"
